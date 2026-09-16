@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605736509175",
+    "project_id": "bonepay-demo",
+    "storage_bucket": "bonepay-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605736509175:android:52e04b5cbdbd0f6fc23df2",
+        "android_client_info": {
+          "package_name": "com.example.bonepay_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqymmw5O2WuaDiUPTFs6Y9EMF5dYek1AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
