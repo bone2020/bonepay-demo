@@ -1,6 +1,6 @@
 # BonePay Demo
 
-A **simulated** multi-currency digital wallet built with Flutter and Firebase. BonePay Demo is a portfolio project that demonstrates a realistic fintech application flow — a wallet dashboard, money transfers, QR payments, transaction history, KYC/profile, and a Cloud Functions backend — using **demo data only**.
+A **simulated** multi-currency digital wallet built with Flutter and Firebase. BonePay Demo is a project that demonstrates a realistic fintech application flow — a wallet dashboard, money transfers, QR payments, transaction history, KYC/profile, and a Cloud Functions backend — using **demo data only**.
 
 > **This is NOT a real financial service.**
 > All balances, payments, transfers, QR requests, KYC records, and transactions are **simulated**. No real money moves and no real customer data is used or stored.
